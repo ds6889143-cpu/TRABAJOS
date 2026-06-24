@@ -1,4 +1,4 @@
-# 📚 Portafolio Académico — Guadalupe Ortiz Rodríguez
+#  Portafolio Académico — Guadalupe Ortiz Rodríguez
 
 **Matemáticas Aplicadas y Computación** -
 Facultad de Estudios Superiores Acatlán, UNAM
@@ -13,7 +13,7 @@ Este repositorio reúne dos proyectos académicos destacados desarrollados duran
 
 ## Proyectos
 
-### 📄 Aplicación de Modelos Matemáticos Basados en Ecuaciones Diferenciales para Predecir la Dinámica de la Metformina en Pacientes con Diabetes Mellitus Tipo II
+###  Aplicación de Modelos Matemáticos Basados en Ecuaciones Diferenciales para Predecir la Dinámica de la Metformina en Pacientes con Diabetes Mellitus Tipo II
 
 > *Formato de publicación Oxford Genetics · Coautoría con Rodrigo E. Hernández Nava y Alice I. Pérez Ríos · FES Acatlán & FES Iztacala, UNAM*
 
@@ -33,7 +33,7 @@ Este artículo desarrolla y valida un modelo farmacocinético basado en ecuacion
 
 ---
 
-### 📄 Simulación de Procesos Aleatorios — Sistema Estocástico de un Cine
+###  Simulación de Procesos Aleatorios — Sistema Estocástico de un Cine
 
 > *Simulación Estocástica 2025-1 · Coautoría con Rodrigo E. Hernández Nava · FES Acatlán, UNAM*
 
